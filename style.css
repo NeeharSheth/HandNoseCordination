@@ -33,7 +33,6 @@ font-size: 40px;
 }
 
 canvas{
-    background: gray;
     border: white 2px solid;
     border-radius: 20px;
     box-shadow: 5px 5px 5px #AA2EE6;
